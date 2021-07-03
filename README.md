@@ -70,7 +70,6 @@ To test the Automation Overdrive events:
 - `assist`
 - `damage`
 - `death`
-- `win`
 - `headshot`
 - `healed_from_ko`
 - `kill`
@@ -80,16 +79,17 @@ To test the Automation Overdrive events:
 - `match_end`
 - `melee`
 - `respawn`
+- `win`
 
 ## Rocket League
 - `death`
 - `defeat`
 - `goal`
-- `matchStart`
-- `matchEnd`
+- `match_start`
+- `match_end`
 - `opposingTeamGoal`
 - `teamGoal`
-- `victory`
+- `win`
 
 # Support
 Found a bug or having an issue after following the instructions? Please open a new issue [here](https://github.com/raimen-ttv/TouchPortal-Overdrive/issues) so that we can address it as soon as possible.

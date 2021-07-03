@@ -154,7 +154,7 @@
       "kPSC": true,
       "KEY_IS_NOT_EQUAL": false,
       "kCSC": 0,
-      "KEY_STATE": "matchEnd",
+      "KEY_STATE": "match_end",
       "KEY_STATE_ID": "overwolfEvent",
       "KEY_TYPE": "ON_STATE_AWARENESS_CHANGE",
       "kICustom": false
@@ -181,7 +181,7 @@
       "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
       "KEY_IS_CHANGE_BG_COLOR": false,
       "KEY_IS_CHANGE_IS_TRANSPARENT": false,
-      "KEY_TITLE": "Rocket League Event:\nmatchEnd",
+      "KEY_TITLE": "Rocket League Event:\nmatch_end",
       "KEY_IS_FULL_ICON": false,
       "KEY_IS_CHANGE_ALIGN_VERT": false
     },
@@ -262,7 +262,7 @@
       "kPSC": true,
       "KEY_IS_NOT_EQUAL": false,
       "kCSC": 0,
-      "KEY_STATE": "victory",
+      "KEY_STATE": "win",
       "KEY_STATE_ID": "overwolfEvent",
       "KEY_TYPE": "ON_STATE_AWARENESS_CHANGE",
       "kICustom": false
@@ -289,7 +289,7 @@
       "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
       "KEY_IS_CHANGE_BG_COLOR": false,
       "KEY_IS_CHANGE_IS_TRANSPARENT": false,
-      "KEY_TITLE": "Rocket League Event:\nvictory",
+      "KEY_TITLE": "Rocket League Event:\nwin",
       "KEY_IS_FULL_ICON": false,
       "KEY_IS_CHANGE_ALIGN_VERT": false
     }

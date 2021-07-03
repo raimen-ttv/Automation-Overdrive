@@ -91,10 +91,25 @@ To test the Automation Overdrive events:
 - `teamGoal`
 - `win`
 
-# Support
+## Examples
+### Apex Legends 
+Scene Change @ match start:
+
+![](./assets/scene_change.gif)
+
+Twitch Clip: [Taco Bell Dong Apex Headshot](https://www.twitch.tv/raimen/clip/BashfulInnocentAardvarkDancingBaby-XQVst5CpxMVP77ER)
+
+### Rocket League
+Gif overlay, airhorn, and emoji spam on goal:
+
+![](./assets/goal.gif)
+
+# Support and Feedback
 Found a bug or having an issue after following the instructions? Please open a new issue [here](https://github.com/raimen-ttv/TouchPortal-Overdrive/issues) so that we can address it as soon as possible.
 
 Have an idea that you would like to see added? Open an issue in the link above, or reach out directly while I'm live on [Twitch](https://twitch.tv/raimen)!
+
+If you have a particularly cool event that you have made with this tool that you would like me to post here, please private message me on [Twitch](https://twitch.tv/raimen) or [Twitter](https://twitter.com/raimen)!
 
 # Terms and Conditions
 

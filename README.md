@@ -119,7 +119,7 @@ If you have a particularly cool event that you have made with this tool that you
 This app is meant to run in the background, and chances are that it is! Make sure that your focused window is a supported game, then press the show-hide toggle key. The default hotkey is "`Ctrl+Shift+[`". If the app does not appear, check that you have not changed the default hotkey.
 
 ### I see the events in the app but TouchPortal isn’t receiving anything.
-If the “Status” in the app’s debug window is not “`Connected to TP`”, try clicking the “Retry Connection” button. Make sure that you have a simple button or event configured and try again. If you continue to have trouble, follow the guide or import a button from the “Setup” section. 
+If the status button in the app’s debug window is not "`Connected to TP`", try clicking the "`Retry Connection`" button. Make sure that you have a simple button or event configured in and try again. If you continue to have trouble, follow the guide or import a button from the [Setup](https://github.com/raimen-ttv/Automation-Overdrive#setup) section. 
 
 ---
 

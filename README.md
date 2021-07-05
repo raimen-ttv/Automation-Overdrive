@@ -2,25 +2,24 @@
 <!-- <img src="./assets/Overwolf_logo_PNG_horizontal.png" width="250" >
 <img src="./assets/madeForTPWhite512.png" width="400" > -->
 
-Automation Overdrive is an [Overwolf](https://www.overwolf.com/) app that lets you supercharge your Touch Portal macros with triggered events live from your games! Here's how it works:
+Automation Overdrive is an [Overwolf](https://www.overwolf.com/) app that allows you to supercharge Touch Portal macros with triggered events live from your games! Here's how it works:
 ![](./assets/how_it_works.jpg)
 
 # Setup
 
 ## Setting up Touch Portal (App and Plugin)
-
+NOTE: In order to use the *Automation Overdrive* custom plugin, you will need to have purchased the "pro" version of Touch Portal. 
 1. Touch Portal general guides can be found on the [official site](https://www.touch-portal.com/blog/post/tutorials/get_started_with_touch_portal.php)
-2. NOTE: In order to use the *Automation Overdrive* custom plugin, you will need to have purchased the "pro" version of Touch Portal. 
-3. Download the *Automation Overdrive* plugin [here](replaceme.com)
-4. Install the plugin following the short steps outlined on the [official site](https://www.touch-portal.com/blog/post/tutorials/import-plugin-guide.php)
+2. Download the *Automation Overdrive* plugin [here](replaceme.com)
+3. Install the plugin following these [short steps](https://www.touch-portal.com/blog/post/tutorials/import-plugin-guide.php)
 
 -----
 
 ## Setting up Touch Portal Events
 
-There are two primary methods of setting up "handlers" for events coming from Overwolf. Button-based events, and global events.
+There are two primary methods for handling events coming from Overwolf: button-based events and global events.
 
-### Button-based events
+### Button-based Events
 To set up a button-based event:
 1. Create a new button
 2. Click the "On `Event`" tab
@@ -28,38 +27,40 @@ To set up a button-based event:
 4. Fill out the dropdowns
    1. Set the first dropdown to "`Overwolf Event`"
    2. Set the second dropdown to "`changes to`"
-   3. Fill in the last text box with the event that you want to handle - i.e. "`assist`"
+   3. Fill in the last text box with the event that you want to handle (i.e. "`assist`")
 
 Button examples can be downloaded from the [examples](./examples) folder and imported directly into Touch Portal. The Apex example button is shown here:
 
 ![](./assets/plugin_example.jpg)
 
 
-### Global events
+### Global Events
 Global events can be triggered regardless of which page your device is currently on, making them particularly useful if you use multiple pages within Touch Portal.
-1. Select "`Events`" from the main-menu (located on the left side of the UI)
+1. Select "`Events`" from the main menu (located on the left side of the UI)
 2. Click "`Add Event...`" at the top
-3. Give your event a name
+3. Name your event
 4. In the "`Event`" dropdown, select "`Plug-in (17) - When Plug-in State changes`"
 5. Fill out the dropdowns
    1. Set the first dropdown to "`Overwolf Event`"
    2. Set the second dropdown to "`changes to`"
-   3. Fill in the last text box with the event that you want to handle - i.e. "`kill`"
+   3. Fill in the last text box with the event that you want to handle (i.e. "`kill`")
 6. Add actions to your flow that will fire when the event is triggered.
 
-Global events are not able to be imported or exported, but look like this after following the steps above:
+Unfortunately, global events cannot currently be imported nor exported. Example from above:
 
 ![](./assets/global_event_example.jpg)
 
 
 
-## Testing the events
+## Testing Events
 
-To test the Automation Overdrive events:
-1. Launch one of the supported games and toggle the visibility of the app (the default key combination is "`ctrl+shift+[`" ).
-2. If the status light is green, you've connected successfully!
-3. Click one of the teal test buttons to send a test event
-4. If everything is set up, the button text on your device should have updated to match the button that you clicked, shown below:
+To test the *Automation Overdrive* events:
+1. Import an [example button](./examples) to Touch Portal
+2. Make sure your mobile device is connected and the button is visible on your current page
+3. Launch a supported game and toggle the app visibility (the default key combination is "`ctrl+shift+[`" ).
+4. If the status light is green, you've connected successfully! If it is not, follow the troubleshooting steps below
+5. Click one of the teal test buttons to send a test event
+6. The button text on your device should update to match the button that you clicked, shown below:
    
 ![](./assets/debug.jpg) ![](./assets/button_example_text.jpg)
 
@@ -104,12 +105,23 @@ Gif overlay, airhorn, and emoji spam on goal:
 
 ![](./assets/goal.gif)
 
+---
+
 # Support and Feedback
-Found a bug or having an issue after following the instructions? Please open a new issue [here](https://github.com/raimen-ttv/TouchPortal-Overdrive/issues) so that we can address it as soon as possible.
+Found a bug or having issues? Please open a new issue [here](https://github.com/raimen-ttv/TouchPortal-Overdrive/issues) so that we can address it as soon as possible.
 
 Have an idea that you would like to see added? Open an issue in the link above, or reach out directly while I'm live on [Twitch](https://twitch.tv/raimen)!
 
 If you have a particularly cool event that you have made with this tool that you would like me to post here, please private message me on [Twitch](https://twitch.tv/raimen) or [Twitter](https://twitter.com/raimen)!
+
+## FAQ
+### I clicked on the app but nothing happened!
+This app is meant to run in the background, and chances are that it is! Make sure that your focused window is a supported game, then press the show-hide toggle key. The default hotkey is "`Ctrl+Shift+[`". If the app does not appear, check that you have not changed the default hotkey.
+
+### I see the events in the app but TouchPortal isn’t receiving anything.
+If the “Status” in the app’s debug window is not “`Connected to TP`”, try clicking the “Retry Connection” button. Make sure that you have a simple button or event configured and try again. If you continue to have trouble, follow the guide or import a button from the “Setup” section. 
+
+---
 
 # Terms and Conditions
 

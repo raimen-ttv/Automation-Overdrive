@@ -121,6 +121,14 @@ This app is meant to run in the background, and chances are that it is! Make sur
 ### I see the events in the app but TouchPortal isn’t receiving anything.
 If the status button in the app’s debug window is not "`Connected to TP`", try clicking the "`Retry Connection`" button. Make sure that you have a simple button or event configured in and try again. If you continue to have trouble, follow the guide or import a button from the [Setup](https://github.com/raimen-ttv/Automation-Overdrive#setup) section. 
 
+--- 
+
+# Proud *`Automation Overdrive`* Users
+The following streamers trust *`Automation Overdrive`* to handle their stream automation, and have liked it enough to have their name listed here. If you love the app and want to have your name added here, reach out to me on [Twitter](https://twitter.com/raimen) via DM or mention. 
+
+- [Raimen](https://twitch.tv/raimen)
+
+
 ---
 
 # Terms and Conditions

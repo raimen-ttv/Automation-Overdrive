@@ -9,7 +9,7 @@ Automation Overdrive is an [Overwolf](https://www.overwolf.com/) app that allows
 
 ## Setting up Touch Portal (App and Plugin)
 NOTE: In order to use the *Automation Overdrive* custom plugin, you will need to have purchased the "pro" version of Touch Portal. 
-1. Download and install *Automation Overdrive* from the official Overwolf store (link pending)
+1. Download and install *Automation Overdrive* from the official Overwolf store [here](https://www.overwolf.com/app/Raimen_TTV-Automation_Overdrive)
 2. Touch Portal general guides can be found on the [official site](https://www.touch-portal.com/blog/post/tutorials/get_started_with_touch_portal.php)
 3. Download the *Automation Overdrive* Touch Portal plugin [here](./plugin/AutomationOverdrive-Win.tpp)
 4. Install the plugin following these [short steps](https://www.touch-portal.com/blog/post/tutorials/import-plugin-guide.php)

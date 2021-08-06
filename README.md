@@ -128,6 +128,7 @@ If the status button in the app’s debug window is not "`Connected to TP`", try
 The following streamers trust *`Automation Overdrive`* to handle their stream automation, and have liked it enough to have their name listed here. If you love the app and want to have your name added here, reach out to me on [Twitter](https://twitter.com/raimen) via DM or mention. 
 
 - [Raimen](https://twitch.tv/raimen)
+- [Muzukashii](https://www.twitch.tv/Muzakashii)
 
 
 ---

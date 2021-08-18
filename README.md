@@ -109,11 +109,10 @@ Gif overlay, airhorn, and emoji spam on goal:
 ---
 
 # Support and Feedback
-Found a bug or having issues? Please open a new issue [here](https://github.com/raimen-ttv/TouchPortal-Overdrive/issues) so that we can address it as soon as possible.
-
-Have an idea that you would like to see added? Open an issue in the link above, or reach out directly while I'm live on [Twitch](https://twitch.tv/raimen)!
-
-If you have a particularly cool event that you have made with this tool that you would like me to post here, please private message me on [Twitch](https://twitch.tv/raimen) or [Twitter](https://twitter.com/raimen)!
+Found a bug or having issues? 
+Have an idea that you would like to see added?
+Made a particularly cool event that you want to share?
+Please join the Discord [here](https://discord.gg/hqmVw46h83) so that we can troubleshoot your issue, implement your idea, or celebrate your awesome automation!
 
 ## FAQ
 <!-- ### I clicked on the app but nothing happened!
@@ -125,7 +124,7 @@ If the status button in the app’s debug window is not "`Connected to TP`", try
 --- 
 
 # Proud *`Automation Overdrive`* Users
-The following streamers trust *`Automation Overdrive`* to handle their stream automation, and have liked it enough to have their name listed here. If you love the app and want to have your name added here, reach out to me on [Twitter](https://twitter.com/raimen) via DM or mention. 
+The following streamers trust *`Automation Overdrive`* to handle their stream automation, and have liked it enough to have their name listed here. If you love the app and want to have your name added here, join the [Automation Overdrive Discord](https://discord.gg/hqmVw46h83) 
 
 - [Raimen](https://twitch.tv/raimen)
 - [Muzakashii](https://www.twitch.tv/Muzakashii)

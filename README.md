@@ -109,9 +109,9 @@ Gif overlay, airhorn, and emoji spam on goal:
 ---
 
 # Support and Feedback
-Found a bug or having issues? 
-Have an idea that you would like to see added?
-Made a particularly cool event that you want to share?
+Found a bug or having issues?<br/>
+Have an idea that you would like to see added?<br/>
+Made a particularly cool event that you want to share?<br/>
 Please join the Discord [here](https://discord.gg/hqmVw46h83) so that we can troubleshoot your issue, implement your idea, or celebrate your awesome automation!
 
 ## FAQ

@@ -83,6 +83,13 @@ To test the *Automation Overdrive* events:
 - `respawn`
 - `win`
 
+## CoD: Warzone
+- `assist`
+- `death`
+- `kill`
+- `match_start`
+- `match_end`
+ 
 ## Rocket League
 - `death`
 - `defeat`
@@ -128,6 +135,7 @@ The following streamers trust *`Automation Overdrive`* to handle their stream au
 
 - [Raimen](https://twitch.tv/raimen)
 - [Muzakashii](https://www.twitch.tv/Muzakashii)
+- [TheDysfunctionl](https://www.twitch.tv/thedysfunctionl)
 
 
 ---

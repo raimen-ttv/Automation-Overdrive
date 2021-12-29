@@ -77,8 +77,8 @@ To test the *Automation Overdrive* events:
 - `kill`
 - `knockdown`
 - `knocked_out`
-- `match_start`
 - `match_end`
+- `match_start`
 - `melee`
 - `respawn`
 - `win`
@@ -87,18 +87,45 @@ To test the *Automation Overdrive* events:
 - `assist`
 - `death`
 - `kill`
-- `match_start`
 - `match_end`
- 
+- `match_start`
+
+## Path of Exile
+- `boss_kill`
+- `death`
+- `openedInventory`
+
+## Rainbox Six Siege
+- `death`
+- `defuser_disabled`
+- `defuser_planted`
+- `headshot`
+- `kill`
+- `knocked_out`
+- `match_loss`
+- `match_won`
+- `roundEnd`
+- `roundStart`
+- `round_loss`
+- `round_won`
+
 ## Rocket League
 - `death`
 - `defeat`
 - `goal`
-- `match_start`
 - `match_end`
+- `match_start`
 - `opposingTeamGoal`
 - `teamGoal`
 - `win`
+
+## Valorant
+- `assist`
+- `death`
+- `headshot`
+- `kill`
+- `match_end`
+- `match_start`
 
 ## Examples
 ### Apex Legends 
